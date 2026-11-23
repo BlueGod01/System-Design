@@ -12,5 +12,4 @@ The notes will use clear explanations, practical examples, Markdown diagrams, an
 - Connect system design concepts to real AI products.
 - Review key takeaways and test understanding with questions.
 
-## Topics
 
