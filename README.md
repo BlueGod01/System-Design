@@ -14,4 +14,3 @@ The notes will use clear explanations, practical examples, Markdown diagrams, an
 
 ## Topics
 
-Notes will be added as the learning journey progresses, starting with foundations.
