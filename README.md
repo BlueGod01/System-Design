@@ -7,9 +7,6 @@ The notes will use clear explanations, practical examples, Markdown diagrams, an
 ## Learning approach
 
 - Build intuition before introducing technical detail.
-- Follow requests and data through each system.
-- Understand trade-offs, failure modes, and design decisions.
-- Connect system design concepts to real AI products.
-- Review key takeaways and test understanding with questions.
+- Follow requests and data through each system.estions.
 
 
